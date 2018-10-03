@@ -1,0 +1,4 @@
+
+Prepare input dataset from chat transcripts,each user utterance is question, agent or bot reply is answer and all previous question and answer tll the present utterance considerd as context.
+
+Prepare fastText vocabulary , taken this to handle nagram level
